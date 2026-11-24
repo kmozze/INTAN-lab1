@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "name": "Лабораторная работа № 1",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/__pycache__": true,
+      "**/.pytest_cache": true
+    }
+  }
+}
+
